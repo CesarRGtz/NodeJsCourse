@@ -1,3 +1,5 @@
-const web = require("./module/myModule");
+const math = require('./math/index.js');
 
-console.log(web);
+console.log(math.multiply(2, 3));
+console.log(math.add(2, 3));
+console.log(math.subtract(2, 3));
