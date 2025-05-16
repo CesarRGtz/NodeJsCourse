@@ -1,0 +1,19 @@
+{
+  "name": "firstproject",
+  "version": "0.0.1",
+  "description": "Primer proyecto",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "first",
+    "project",
+    "nodejs"
+  ],
+  "author": "zrmid",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
